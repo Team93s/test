@@ -13,6 +13,8 @@ public class Test {
         System.out.println("当前在测试Git分支ggg操作");
         System.out.println("++++++++++++++制造冲突+++++++++++++++");
         System.out.println("ggg分支");
+        System.out.println("++++++++++++++制造冲突+++++++++++++++");
+        System.out.println("master主分支");
     }
 
 }
